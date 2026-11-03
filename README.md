@@ -67,6 +67,23 @@ The main objective of this project is to understand and implement Python file-ha
 
 It combines fundamental Python programming concepts with a clean graphical user interface to make file management easier and more accessible.
 
+## 📸 Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Create File
+![Create File](screenshots/create.png)
+
+### Read File
+![Read File](screenshots/read.png)
+
+### Update File
+![Update File](screenshots/update.png)
+
+### Delete File
+![Delete File](screenshots/delete.png)
+
 ## 👨‍💻 Author
 
 **Sourabh Singh Rawat**
