@@ -70,19 +70,19 @@ It combines fundamental Python programming concepts with a clean graphical user 
 ## 📸 Application Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ### Create File
-![Create File](screenshots/create.png)
+![Create File](Images/Create.png)
 
 ### Read File
-![Read File](screenshots/read.png)
+![Read File](Images/Read.png)
 
 ### Update File
-![Update File](screenshots/update.png)
+![Update File](Images/Update.png)
 
 ### Delete File
-![Delete File](screenshots/delete.png)
+![Delete File](Images/Delete.png)
 
 ## 👨‍💻 Author
 
