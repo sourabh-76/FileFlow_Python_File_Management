@@ -1,4 +1,3 @@
-# CRUD
 # 📁 FileFlow – Python File Management System
 
 **FileFlow** is a Python-based File Management System built using **Streamlit** that provides a simple, interactive, and user-friendly interface to perform various file-handling operations.
@@ -28,7 +27,7 @@ The project demonstrates the practical implementation of Python file handling, e
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/sourabh-76/FileFlow_Python_File_Management.git
 ```
 
 ### 2. Navigate to the project directory
